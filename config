@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = danicarluso@gmail.com
+	name = Dani Carluso
+[remote "origin"]
+	url = https://github.com/danicarluso-ctrl/21diascomceu.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
